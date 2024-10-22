@@ -1,2 +1,2 @@
 # todo-list-flask
-Proyecto de lista de Tareas UTVT
+Proyecto de Flask demostrativo para IDGS
